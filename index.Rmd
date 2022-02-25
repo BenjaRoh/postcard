@@ -7,7 +7,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/BenjaRohr"
   - label: Email
     url: "mailto:email@email.com"
 output:
@@ -16,12 +16,7 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Howdy, Janko!!!
 
 ## Education
 
